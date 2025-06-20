@@ -1,0 +1,54 @@
+    main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .card {
+    background-color: #ffffff;
+    padding: 16px; 
+    }
+
+    .card__img-top {
+    width: 288px;
+    height: 182px;
+    }
+
+    .card__title {
+    color: #282828;
+    font-size: 14px;
+    }
+
+    .card__description {
+    color: #282828;
+    font-size: 12px;
+    }
+
+
+    body {
+    background-color: #C4C4C4;
+    margin: 0;
+    padding: 0;
+    }
+
+
+    header {
+    background-color: #ffffff;
+    width: 100%;
+    height: 80px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    }
+
+
+    footer {
+    background-color: #ffffff;
+    width: 100%;
+    height: 60px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
